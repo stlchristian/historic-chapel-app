@@ -1,0 +1,20 @@
+table{
+  border-width:1px;
+  border-style:solid;
+}
+td{
+  border-width:1px;
+  border-style:solid;
+  width:150px;
+  height:35px;
+  /*text-align:center;*/
+  padding-left:10px;
+}
+.count{
+  border-width:1px;
+  border-style:solid;
+  width:50px;
+  height:35px;
+  /*text-align:center;*/
+  padding-left:10px;
+}
